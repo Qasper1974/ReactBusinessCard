@@ -1,8 +1,15 @@
+import React from "react";
+
+import styles from './App.module.css';
+
+import Card from './components/Card'
 
 function App() {
   return (
-      <div >
-          <h1>hello</h1>
+      <div className={styles.app}>
+        <Card >
+            <h1>hello</h1>
+        </Card>
       </div>
   );
 }
