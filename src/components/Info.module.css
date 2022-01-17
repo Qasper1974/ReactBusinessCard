@@ -1,18 +1,28 @@
 .info {
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
-    margin: 0;
-    padding: 0;
+    /* margin: 0;
+    padding: 0; */
     background-color: rgb(194, 125, 35);
     width: 100%;
     height: 350px;
-    /* display: inline-block; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .foto {
+    display: block;
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
-    padding: 0;
+    /* padding: 0; */
     height: 250px;
     width: 100%;
+}
+
+.naam {
+    /* display: block; */
+    padding: 0;
+    margin: auto;
+    color: white;
 }

@@ -8,7 +8,7 @@ const Info = () => {
     return (
         <div className={styles.info}>
             <img src={foto} className={styles.foto}/>
-            <h3>name</h3>
+            <h2 className={styles.naam}>Yves Faems</h2>
             <h3>buttons</h3>
         </div>
     )
