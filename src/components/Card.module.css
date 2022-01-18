@@ -1,7 +1,8 @@
 .card {
-    background-color: antiquewhite;
+    margin-top: 40px;
     width: 400px;
-    height: 600px;
+    height: 680px;
     border-radius: 12px;
     position: relative;
+    background-color: rgb(29, 28, 31);
 }

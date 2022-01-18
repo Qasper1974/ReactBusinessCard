@@ -11,8 +11,10 @@ function App() {
       <div className={styles.app}>
         <Card >
             <Info />
-            <h1>about</h1>
-            <h1>interest</h1>
+            <h2 className={styles.title}>About</h2>
+            <p className={styles.paragraph}>ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus</p>
+            <h2 className={styles.title}>Interest</h2>
+            <p className={styles.paragraph}>malesuada fames ac turpis egestas sed tempus urna et pharetra pharetra massa massa ultricies mi quis hendrerit dolor magna eget</p>
             <Footer />
         </Card>
       </div>

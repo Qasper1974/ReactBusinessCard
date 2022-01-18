@@ -1,6 +1,6 @@
 import React from "react";
 
-import foto from '../images/C54BB3C6-E147-42DE-A2AC-9C9A27E1AC95.JPG';
+import foto from '../images/zion.png';
 
 import Button from "./Button";
 

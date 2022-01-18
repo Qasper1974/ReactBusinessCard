@@ -5,3 +5,20 @@
     display: flex;
     justify-content: center;
 }
+
+.title {
+    margin-bottom: 3px;
+    padding-left: 8px;
+}
+
+.paragraph {
+    margin: 0;
+    padding-left: 12px;
+    padding-right: 40px;
+    line-height: 22px;
+}
+
+.title, .paragraph {
+    margin-left: 10px;
+    color: whitesmoke;
+}
