@@ -26,3 +26,8 @@
     margin: auto;
     color: white;
 }
+
+.button_container {
+    display: flex;
+    justify-content: space-around;
+}
