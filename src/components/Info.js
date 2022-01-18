@@ -13,12 +13,12 @@ const Info = () => {
             <h2 className={styles.naam}>Yves Faems</h2>
             <div className={styles.button_container}>
                 <Button
-                    button_text = 'email'
+                    button_text = 'Email'
                     color = 'black'
                     colorBack = 'white'
                 />
                 <Button 
-                    button_text = 'linkedIn'
+                    button_text = 'LinkedIn'
                     colorBack = '#0A66C2'
                     color = 'white'
                 />
