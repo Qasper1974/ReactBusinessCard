@@ -1,0 +1,7 @@
+.list {
+    display: flex;
+    flex-direction: row;
+    background-color: violet;
+    position: sticky;
+    bottom: 10px;
+}

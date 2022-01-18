@@ -4,6 +4,7 @@ import styles from './App.module.css';
 
 import Card from './components/Card'
 import Info from './components/Info'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
             <Info />
             <h1>about</h1>
             <h1>interest</h1>
-            <h1>footer</h1>
+            <Footer />
         </Card>
       </div>
   );

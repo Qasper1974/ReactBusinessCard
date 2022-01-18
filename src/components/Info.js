@@ -14,7 +14,8 @@ const Info = () => {
             <div className={styles.button_container}>
                 <Button
                     button_text = 'email'
-                    color = '#0A66C2'
+                    color = 'black'
+                    colorBack = 'white'
                 />
                 <Button 
                     button_text = 'linkedIn'
